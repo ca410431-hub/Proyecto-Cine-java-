@@ -147,7 +147,7 @@ La aplicación utiliza componentes Swing para crear una interfaz intuitiva y res
 
 ## 👨‍💻 Autor
 
-**lgtro** (Desarrollador Principal)
+**** (Desarrollador Principal)
 
 ## 📄 Licencia
 

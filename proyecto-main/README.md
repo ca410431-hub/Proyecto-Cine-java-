@@ -145,10 +145,6 @@ La aplicación utiliza componentes Swing para crear una interfaz intuitiva y res
 - Formularios para registro y login
 - Ventanas emergentes para descripciones y confirmaciones
 
-## 👨‍💻 Autor
-
-**** (Desarrollador Principal)
-
 ## 📄 Licencia
 
 Este proyecto es parte del curso de Programación Visual 2024 en UNEDL.
